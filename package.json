@@ -1,0 +1,25 @@
+{
+  "name": "visual-nuts",
+  "version": "1.0.0",
+  "description": "Visual Nuts Test",
+  "main": "init.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersoonluan/visual-nuts.git"
+  },
+  "author": "Anderson Rodrigues (andersoonluan@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersoonluan/visual-nuts/issues"
+  },
+  "homepage": "https://github.com/andersoonluan/visual-nuts#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
