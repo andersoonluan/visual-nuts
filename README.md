@@ -1,5 +1,7 @@
 # Visual Nuts - Coding Test
 
+[![Build Status](https://travis-ci.com/andersoonluan/visual-nuts.svg?branch=master)](https://travis-ci.com/andersoonluan/visual-nuts)
+
 This is a coding test created by Anderson Rodrigues
 
 ![Visual Nuts](https://media2.giphy.com/media/VWRAkf1ZlcTDQwJIav/giphy.gif?cid=790b76114fbb01ac86f10360b67585a149b2d41a60f78c17&rid=giphy.gif&ct=g)
