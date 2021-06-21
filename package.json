@@ -5,7 +5,7 @@
   "main": "init.js",
   "scripts": {
     "test": "mocha",
-    "start": "node -r esm server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
